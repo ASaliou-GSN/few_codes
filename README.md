@@ -16,7 +16,7 @@ quantités qui l'intéresse et réalise les bonnes statistiques en fonction de s
 en histogramme, le temps total de course et l'élévation. On peut voit l'évolution de la vitesse de course au fur et à mesure
 ainsi que l'écart avec les olympiades précédentes. Note : le sex est entré à la main mais on peut facile en faire une demande utilisateur au besoin.
 
-*scrapping_tokyo : tout est dans le nom ! Le code que j'ai utilisé pour scrapper les résultats du marathon de Tokyo. 
+*scrap_tokyo : tout est dans le nom ! Le code que j'ai utilisé pour scrapper les résultats du marathon de Tokyo. 
 Le format final n'est pas le même que le tiens mais dans le post-process je remet tout au même format pour traiter et faire les visus.
 
 *cp_races : un petit code d'un projet plus global de comparateurs de courses que j'avais réalisé un peu avant que l'on se rencontre. 
@@ -36,10 +36,9 @@ J'avais passé pas mal de temps à bosser aussi sur le visuel et j'en suis toujo
 Quelques remarques complémentaires : 
 
 - A mes heures perdues, je suis en train de travailler sur un prédicteur de course/constructeur de fonction de plan d'entraînement à partir des chronos d'athlètes. 
-Ce n'est pas révolutionnaire, mais j'en profite pour bosser mes skills de travail sur les classes que j'utilise peu pour le moment. 
+Ce n'est pas révolutionnaire, mais j'en profite pour bosser mes skills de travail sur les classes que j'utilise peu pour le moment.
 
 - Jusque là, j'ai principalement codé sur Spyder.
 En voyant que tu travaillais sur Notebook, je m'y suis mis également. Si on collabore sur du code, c'est sûrement le meilleur des formats et puis c'est vraiment bien intégré à VSCode (tout comme git d'ailleurs !).
 
-- 
--  
+- Je suis aussi en train de bosser sur un code de scrapping en PS qui pourrait être plutôt efficace... more to come
